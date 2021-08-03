@@ -16,4 +16,4 @@ Je fais souvent cela [en direct sur Twitch](https://www.twitch.tv/skarab42) pres
 ---
 
 ![skarab42 GitHub stats](https://github-readme-stats.vercel.app/api?username=skarab42&show_icons=true&theme=synthwave)
-![skarab42 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarab42&langs_count=42&layout=compact&theme=synthwave)
+![skarab42 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarab42&langs_count=10&layout=compact&theme=synthwave)
